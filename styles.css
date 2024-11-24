@@ -21,7 +21,6 @@ body {
 
 .card {
   background-color: #1f1f1f;
-  max-width: 27.43rem;
   border-radius: 20px;
   padding: 2.86rem;
 }
@@ -36,7 +35,7 @@ body {
   margin: 0;
 }
 .card-header p:last-of-type {
-  font-weight: 100;
+  font-weight: 300;
 }
 
 img {
@@ -68,9 +67,4 @@ ul {
   color: #141414;
   background-color: #c4f82a;
   cursor: pointer;
-}
-
-a {
-  text-decoration: none;
-  color: #fff;
 }
